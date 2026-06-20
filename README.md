@@ -92,10 +92,9 @@ Built an interactive dashboard featuring:
 
 ---
 
-### Main Dashboard
-
 ## Dashboard Overview
 
+![Dashboard Overview](https://github.com/kavyaxjain29/blinkit_customer_analysis/blob/6a63e1caa4bfa214c65799f2030162fb5d59b57f/dashboard/images/Screenshot%202026-06-19%20174041.png)
 
 ### Filtered Dashboard View
 
