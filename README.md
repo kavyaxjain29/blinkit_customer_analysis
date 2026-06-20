@@ -52,7 +52,7 @@ Performed exploratory and business-focused analysis including:
 * Order and revenue analysis
 * Delivery status evaluation
 * Customer feedback and sentiment analysis
-* Payment method distribution
+* Inventory Analysis
 
 ### 3. Power BI Dashboard Development
 
@@ -88,7 +88,7 @@ Built an interactive dashboard featuring:
 * Top Selling Categories
 * Delivery Status Analysis
 * Revenue Trend Over Time
-* Payment Method Distribution
+* Customer Sentiments
 
 ---
 
@@ -96,9 +96,10 @@ Built an interactive dashboard featuring:
 
 ![Dashboard Overview](https://github.com/kavyaxjain29/blinkit_customer_analysis/blob/6a63e1caa4bfa214c65799f2030162fb5d59b57f/dashboard/images/Screenshot%202026-06-19%20174041.png)
 
+
 ### Filtered Dashboard View
 
-
+![Filtered Dashboard View](https://github.com/kavyaxjain29/blinkit_customer_analysis/blob/15b5ee06d0f864c7aca48acc4e97ca5f5465b6f3/dashboard/images/Screenshot%202026-06-19%20174109.png)
 
 ---
 
